@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>dd5d1d3f-3de3-4abd-af46-b59bb4e122c5</ProjectGuid>
+    <ProjectGuid>{2B8658AC-953A-413E-8F1D-E10E8A9B8C16}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MediaSelector</RootNamespace>
